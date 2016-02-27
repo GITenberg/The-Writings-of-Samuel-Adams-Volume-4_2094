@@ -1,0 +1,32 @@
+_repo: The-Writings-of-Samuel-Adams-Volume-4_2094
+contributor:
+  creator:
+    editor:
+      agent_name: Cushing, Harry Alonzo
+      birthdate: 1870
+      deathdate: 1955
+      gutenberg_agent_id: '34142'
+      url: http://www.gutenberg.org/2009/agents/34142
+creator:
+  author:
+    agent_name: Adams, Samuel
+    birthdate: 1722
+    deathdate: 1803
+    gutenberg_agent_id: '821'
+    url: http://www.gutenberg.org/2009/agents/821
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Adams
+description: ''
+gutenberg_issued: '2000-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2094'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Politics and government -- 1783-1809'
+- !lcc 'E300'
+- !lcsh 'United States -- Politics and government -- 1775-1783'
+title: The Writings of Samuel Adams - Volume 4
+url: http://www.gutenberg.org/ebooks/2094
