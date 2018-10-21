@@ -1,5 +1,5 @@
 _repo: The-Writings-of-Samuel-Adams-Volume-4_2094
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editor:
@@ -34,5 +34,6 @@ subjects:
 - !lcsh 'United States -- Politics and government -- 1783-1809'
 - !lcc 'E300'
 - !lcsh 'United States -- Politics and government -- 1775-1783'
+- GITenberg
 title: The Writings of Samuel Adams - Volume 4
 url: http://www.gutenberg.org/ebooks/2094
